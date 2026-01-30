@@ -6,6 +6,13 @@ New York, NY
 
 ---
 
+## Who am I?
+
+I am a French-trained aerospace engineer currently pursuing a PhD in Civil Engineering at
+The City College of New York. My academic background spans aerospace engineering,
+numerical modeling, and remote sensing, which now informs my research in
+atmospheric modeling and Earth observation.
+
 ## Research interests
 
 My research focuses on the physical modeling of convective storms and short-term precipitation
@@ -40,18 +47,6 @@ ensemble design and data assimilation strategies.
 
 ---
 
-## Background
-
-- **PhD in Civil Engineering**, The City College of New York (starting 2025)  
-  Advisor: Prof. Reza Khanbilvardi  
-  Affiliation: CUNY CREST Institute
-
-- **MSc in Aerospace Engineering**, IPSA Toulouse  
-  Focus on numerical methods, guidance and control, system observation, AI, and remote sensing
-
-- Exchange semester in **Computer Science and Electrical Engineering**, Chung-Ang University (South Korea)
-
----
 
 ## Technical interests & tools
 
@@ -62,25 +57,30 @@ ensemble design and data assimilation strategies.
 
 ---
 
+## Previous research & contributions
+
+Before starting my PhD, I worked on a range of research and applied projects related to
+Earth observation, remote sensing, and environmental monitoring. Some selected outputs
+are listed below.
+
+- **Global Canopy Height Modeling (GCHM)**  
+  Draft work on canopy height and biomass estimation using multi-source satellite data
+  (Sentinel-2 and GEDI LiDAR), including model adaptation and large-scale inference pipelines.  
+  *(draft / ongoing documentation)*
+
+- **End-of-study internship report**  
+  Research report focused on remote sensing and AI-based monitoring of urban and
+  environmental systems.  
+  *(PDF report)*
+
+- **International Astronautical Congress (IAC), Milan – Poster (2024)**  
+  *Earth’s Pulse, City’s Breath: Enhancing Urban Land Cover Through SAR and Sentinel-2 Data Fusion*  
+  Poster presentation on multi-sensor data fusion for urban land cover analysis.
+  
+---
+
 ## Notes
 
 Some repositories hosted here include code developed during previous research and professional experience,
 along with research prototypes and work-in-progress related to my PhD.
 
-
-
-
-<!--
-**Marccrampe/Marccrampe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
